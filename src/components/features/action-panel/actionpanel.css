@@ -1,0 +1,30 @@
+.action-buttons {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.action-panel-footer button {
+  min-width: 210px;
+}
+
+.input-field {
+    display: flex;
+    gap: 10px;
+    margin: 10px 0 30px 0;
+}
+
+.chakra-group {
+    width: 350px;
+}
+
+#max-button {
+    background-color: rgb(242, 242, 242);
+    color: black;
+    border: rgb(215, 215, 215) 0.5px solid;
+}
+
+#title {
+    font-size: 38px;
+    margin-bottom: 30px;
+}
