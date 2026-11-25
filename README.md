@@ -57,8 +57,8 @@ A DeFi staking platform where users deposit tokens into a smart contract. Every 
 ### Installation
 1. **Clone the repository**
 
-`git clone https://github.com/yourusername/StakeYield-Protocol.git`
-`cd StakeYield-Protocol`
+`git clone https://github.com/Darius311/Stake-yield-protocol.git`
+`cd Stake-yield-protocol`
 
 2. **Install dependencies**
 
